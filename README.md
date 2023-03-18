@@ -4,21 +4,21 @@
 
 >## _Меня зовут Алексей_
 
-  </br>- _Родился там-то..._
-  </br>- _Учился там-то..._
-  </br>- _Работаю там-то..._
+  <br>- _Родился там-то..._
+  <br>- _Учился там-то..._
+  <br>- _Работаю там-то..._
 
-</br>
-</br>
+<br>
+<br>
   
 >## _Моя задача освоить язык программирования Python и пройти полный курс "Python-разработчик с нуля"_
 
-  </br> ![](https://okna-wp.ru/wp-content/uploads/2022/05/done-ico.png)_Вводный модуль для студентов профессий PD B FPY_
-  </br> ![](https://okna-wp.ru/wp-content/uploads/2022/05/done-ico.png)_Основы языка программирования Python_
-  </br> ![](https://plcosmetic.ru/images/2019/08/17/check4.png)_Git - система контроля версий_
-  </br> ![](https://plcosmetic.ru/images/2019/08/17/check4.png)_ООП и работа с API_
-  </br> ![](https://plcosmetic.ru/images/2019/08/17/check4.png)_Базы данных для python-разработчиков_
-  </br> ![](https://plcosmetic.ru/images/2019/08/17/check4.png)_Профессиональная работа с Python_
-  </br> ![](https://plcosmetic.ru/images/2019/08/17/check4.png)_Django: создание функциональных веб-приложений_
-  </br> ![](https://plcosmetic.ru/images/2019/08/17/check4.png)_Python в веб-разработке_
-  </br> ![](https://plcosmetic.ru/images/2019/08/17/check4.png)_Дипломный блок профессии Python-разработчик_
+  <br> ![](https://okna-wp.ru/wp-content/uploads/2022/05/done-ico.png)_Вводный модуль для студентов профессий PD B FPY_
+  <br> ![](https://okna-wp.ru/wp-content/uploads/2022/05/done-ico.png)_Основы языка программирования Python_
+  <br> ![](https://plcosmetic.ru/images/2019/08/17/check4.png)_Git - система контроля версий_
+  <br> ![](https://plcosmetic.ru/images/2019/08/17/check4.png)_ООП и работа с API_
+  <br> ![](https://plcosmetic.ru/images/2019/08/17/check4.png)_Базы данных для python-разработчиков_
+  <br> ![](https://plcosmetic.ru/images/2019/08/17/check4.png)_Профессиональная работа с Python_
+  <br> ![](https://plcosmetic.ru/images/2019/08/17/check4.png)_Django: создание функциональных веб-приложений_
+  <br> ![](https://plcosmetic.ru/images/2019/08/17/check4.png)_Python в веб-разработке_
+  <br> ![](https://plcosmetic.ru/images/2019/08/17/check4.png)_Дипломный блок профессии Python-разработчик_
